@@ -1,0 +1,8 @@
+{
+    "incident_id": "INC-2026-X",
+    "original_alert": "Critical: Payment Gateway Latency Spike",
+    "final_diagnosis": "ACTION: GET_METRICS",
+    "total_cycles": 30,
+    "last_metrics_captured": "Service: payment-gateway | CPU: 94% | Mem: 88% | Latency: 1200ms",
+    "status": "TIMEOUT"
+}

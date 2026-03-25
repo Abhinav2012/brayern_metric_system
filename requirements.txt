@@ -1,4 +1,6 @@
-langchain
+langchain==0.3.*
+langchain-community
+langchain-huggingface
 langgraph
 openai
 
@@ -15,3 +17,4 @@ pytest
 loguru
 
 python-dotenv
+
