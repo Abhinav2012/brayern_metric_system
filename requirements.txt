@@ -1,0 +1,17 @@
+langchain
+langgraph
+openai
+
+fastapi
+uvicorn
+
+pydantic
+requests
+
+pandas
+
+pytest
+
+loguru
+
+python-dotenv
